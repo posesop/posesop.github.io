@@ -1,12 +1,12 @@
 - skill:
   name: Java
-  level: 80%
+  level: 90%
 - skill:
   name: Node & Javascript
-  level: 60%
+  level: 70%
+- skill:
+  name: BackEnd
+  level: 80%
 - skill:
   name: FrontEnd
   level: 50%
-- skill:
-  name: HTML5 & CSS
-  level: 70%

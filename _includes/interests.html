@@ -5,7 +5,7 @@
 
     <ul class="list-unstyled interests-list">
       {% for interest in site.data.interests %}
-      <li>{{ interest.item }}</li>
+      <a href="http://{{interest.link}}" target="_blank"><li>{{ interest.item }}</li></a>
       {% endfor %}
     </ul>
 
