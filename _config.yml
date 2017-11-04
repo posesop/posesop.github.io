@@ -1,7 +1,7 @@
 # Site Settings
 title: Victor Pose CV
 url: 'http://webjeda.com'
-baseurl: 'posesop.github.io' #change it according to your repository name
+baseurl: '/' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -22,8 +22,8 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 #sidebar links
 email: vposem@gmail.com
 phone: 630 578 618
-website: blog.webjeda.com #do not add http://
-linkedin: vmpose
+website: posesop.github.io #do not add http://
+linkedin: victorpose
 github: posesop
 #Update all the sections by editing the files inside _data folder.
 
