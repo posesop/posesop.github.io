@@ -36,7 +36,7 @@
 
 		$('#intro').backstretch([
 			'assets/images/Trolltunga.jpeg',
-			'assets/images/lago.jpg',
+			'assets/images/lagoa.jpg',
 		], {duration: 5000, fade: 750});
 		/* ---------------------------------------------- /*
  		 * Navbar
